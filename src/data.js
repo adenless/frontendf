@@ -79,3 +79,4 @@ export const tours = [
     cost: 3300,
   },
 ];
+export default tours;
